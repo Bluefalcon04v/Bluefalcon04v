@@ -1,10 +1,11 @@
 ## Hi there 👋
 # 💫 About Me:
 
-🔭 Currently working on: Frontend projects using React JS, Next JS, Tailwind, and Framer Motion. <br>
+🔭 I’m currently working at Khan Global Studies.  <br>
+🌱 Focused on writing better-optimized and scalable code. <br>
 👨‍💻 Tech stack: JavaScript, React.js, Next.js, GSAP, Tailwind, and Figma for clean, interactive UI/UX. <br>
 🤝 Open to collaborate on: Frontend builds, UI animations.<br>
-🌱 Currently learning: Advanced animation (Framer Motion/GSAP) techniques. <be>
+📫 How to reach me: amitsah04v@gmail.com  <be>
 
 
 ## 🌐 Socials:
