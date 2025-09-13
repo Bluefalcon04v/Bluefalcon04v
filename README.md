@@ -7,8 +7,8 @@
 🤝 Open to collaborate on: Frontend builds, UI animations.<br>
 📫 How to reach me: amitsah04v@gmail.com  <be>
 🏅 Profiles:
-    🥘 [![CodeChef](https://www.codechef.com/users/bluefalcon_04v)
-    🧠 [![LeetCode](https://github.com/Bluefalcon04v)
+    🥘 [CodeChef](https://www.codechef.com/users/bluefalcon_04v)
+    🧠 [LeetCode](https://github.com/Bluefalcon04v)
 
    
 ## 🌐 Socials:
