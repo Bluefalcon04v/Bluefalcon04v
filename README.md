@@ -6,7 +6,7 @@
 👨‍💻 Tech stack: JavaScript, React.js, Next.js, GSAP, Tailwind, and Figma for clean, interactive UI/UX. <br>
 🤝 Open to collaborate on: Frontend builds, UI animations.<br>
 📫 How to reach me: amitsah04v@gmail.com <br>
-🏅 Profiles: <br>
+🏅 Profiles: 
     🥘 [CodeChef](https://www.codechef.com/users/bluefalcon_04v) 
     🧠 [LeetCode](https://github.com/Bluefalcon04v)  <be>
 
