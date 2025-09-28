@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
+# 💫 About Me: 
 
 🔭 I’m currently working at Khan Global Studies.  <br>
 🌱 Focused on writing better-optimized and scalable code. <br>
